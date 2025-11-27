@@ -1,0 +1,13 @@
+# Mac files
+.DS_Store
+
+# RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Word temp files
+~$*
+*.docx
+*.pdf
+
